@@ -1,0 +1,1 @@
+Iremos deletar esse arquivo na master para gerar o conflito.
