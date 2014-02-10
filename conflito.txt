@@ -1,1 +1,0 @@
-conflito.txt na master -  Iremos deletar esse arquivo na master para gerar o conflito conflito
