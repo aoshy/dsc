@@ -1,9 +1,9 @@
 
 public class Teste {
 	
-	private string teste;
+	private String teste;
 	
 	public Teste()
-		this.teste = "teste"
+		this.test = "teste"
 		//erro de compilação proposital
 }
